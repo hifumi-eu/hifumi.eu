@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@700&display=swap');
+
+h2 {
+    font-family: "Fira Sans", Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+body {
+    background: black;
+    color: white;
+}
